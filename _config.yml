@@ -5,6 +5,7 @@ description: Halaman informasi perkuliahan KU2062 AEP
 # google_analytics:
 theme: jekyll-theme-minimal
 
-# remove view github profile link
+# remove view github profile/page link
 github:
+  is_user_page: false
   is_project_page: false
