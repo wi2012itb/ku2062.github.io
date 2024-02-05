@@ -65,7 +65,7 @@ Pembobotan Nilai semester 1 TA. 2023/2024 (D: Dosen, A: Asisten):
 | K04 Cirebon | 9709 | Rabu, 11.00 – 13.00 | Jovi Andreas Bancin |
 | K05 Jatinangor | R.U3.07 | Jumat, 07.00 – 09.00 | Venny Marcelina |
 
-#### Informaasi Komponen Asisten
+#### Informasi Komponen Asisten
 
 Komponen Asisten dilaksanakan dengan Kelompok Mentoring. Tiap Kelompok Mentoring diberikan seorang Mentor yang memimpin keberjalanan 7MBT dan Mentoring. **Komponen Aisten dimulai setelah PRS, pada Minggu 5**
 - **Kelompok Mentoring**: _menunggu PRS_
