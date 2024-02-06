@@ -53,8 +53,6 @@ Pembobotan Nilai semester 1 TA. 2023/2024 (D: Dosen, A: Asisten):
 | Mentoring (A)| 15% |
 | Tugas dan Kehadiran (A)| 15% |
 
-[Kalendar Mata Kuliah](./output.md)
-
 #### Informasi Kelas
 
 | Kelas | Lokasi | Jadwal | Ketua Kelas |
