@@ -53,7 +53,7 @@ Pembobotan Nilai semester 1 TA. 2023/2024 (D: Dosen, A: Asisten):
 | Mentoring (A)| 15% |
 | Tugas dan Kehadiran (A)| 15% |
 
-[Kalendar Mata Kuliah](https://outlook.office365.com/owa/calendar/a8cd4a3215a740d5a707d605dddf9bfa@mahasiswa.itb.ac.id/8274738d46a24821a77e0377f07c071c1511853878465106442/calendar.html)
+[Kalendar Mata Kuliah](./output.md)
 
 #### Informasi Kelas
 
