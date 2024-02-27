@@ -1,10 +1,10 @@
 # 7 Menit Bersama Tuhan (7MBT)
 
-> - saat teduh harian 
-> - **deadline harian: 23:55 WIB**, maks. terlambat 7 hari
-> - penilaian: **Catatan 7MBT** - [Template .docx](./assets/docs/template-7mbt.docx)
-> - periode: 3 Maret 2024 - 25 Mei 2024
-> - **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
+- saat teduh harian 
+- **deadline harian: 23:55 WIB**, maks. terlambat 7 hari
+- penilaian: **Catatan 7MBT** - [Template .docx](./assets/docs/template-7mbt.docx)
+- periode: 3 Maret 2024 - 25 Mei 2024
+- **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
 
 * * *
 
@@ -26,8 +26,8 @@ Framework ini dapat disesuaikan Mentor masing-masing.
 Contoh template 7MBT disediakan pada Microsoft Teams dan link berikut:
 [Template Catatan 7MBT dalam .docx](./assets/docs/template-7mbt.docx)
 
-<img src="./assets/img/7mbt.jpg" width="400" height="600">
-<img src="./assets/img/7mwg.jpg" width="400" height="600">
+<img src="./assets/img/7mbt.jpg" width="200" height="300">
+<img src="./assets/img/7mwg.jpg" width="200" height="300">
 
 * * *
 

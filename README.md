@@ -1,32 +1,31 @@
-## Informasi Umum:
+## Laman Informasi
+
+**Informasi Umum:**
+
 - 2 SKS / 6 jam per minggu
 - Kelas: Regular (K01 dan K02), IUP (K03), Cirebon (K04), dan Jatinangor (K05)
-- Narahubung: **Koordinator Asisten: Christopher Chandra**
+- Narahubung Mata Kuliah: **Christopher Chandra**
     - [18320033+aep@mahasiswa.itb.ac.id](mailto:18320033+aep@mahasiswa.itb.ac.id) 
     - [Whatsapp](https://wa.me/+6287839954991)
     - Teams
 
-## Tim Dosen
+| <h2>Tim Dosen</h2> | &#10240; |
+|:---------|:----------------------|
+| <img src="./assets/img/prof-alamta.jpg" width="80" style="border-radius:50%"> | **Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** <br>Dosen Pengampu |
+| <img src="./assets/img/dr-javen.jpg" width="80" style="border-radius:50%"> | **Dr.-Ing. Javensius Sembiring, S.T., M.T.** <br>Staf Pengajar |
+| <img src="./assets/img/debora.png" width="80" style="border-radius:50%"> | **Debora Situmorang, S.T., S.E.** <br>Staf Pengajar |
+| <img src="./assets/img/kendrik.jpg" width="80" style="border-radius:50%"> | **Kendrik Emkel Ginting, S.T.** <br>Staf Pengajar |
 
-**Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** (Dosen Mata Kuliah)
+| <h2>Tim Asisten</h2> | &#10240; |
+|:---------|:----------------------|
+| <img src="./assets/img/christopher.png" width="75" style="border-radius:50%"> | **Christopher Chandra** <br>Koordinator Asisten |
+| <img src="./assets/img/johann.jpg" width="75" style="border-radius:50%"> | **Johann Christian Kandani** <br>Ketua Kelas K01 |
+| <img src="./assets/img/abraham.png" width="75" style="border-radius:50%"> | **Abraham Bartholomeus Caleb Putra Pratomo** <br>Ketua Kelas K02 |
+| <img src="./assets/img/gloria.png" width="75" style="border-radius:50%"> | **Gloria Galore Puandhika Sinaga** <br>Ketua Kelas K03 |
+| <img src="./assets/img/jovi.jpg" width="75" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
+| <img src="./assets/img/venny.jpg" width="75" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
 
-Staf Pengajar:
-1. Dr.-Ing. Javensius Sembiring, S.T., M.T.
-1. Debora Situmorang, S.T., S.E. 
-1. Kendrik Emkel Ginting, S.T.
-
-## Tim Asisten
-
-**Koordinator Asisten**: Christopher Chandra
-
-| Ketua Kelas | Asisten |
-|:------------|:--------|
-| Johann Christian Kandani (K01) | Abraham Bartholomeus Caleb Putra Pratomo |
-| Gloria Galore Puandhia Sinaga (K03) | Samuel Theodorus Kurniawan |
-| Jovi Andreas Bancin (K04) | Joshua Jovano |
-| Venny Marcelina (K05) | Ester Naomi Sinaga |
-| | Neni Marlina Br Sembiring |
-| | Feodora Glory Roserina Munthe |
+**Roster Asisten Kelas dan Mentor**: [Lihat di sini](./pengurus.md)
 
 ## Komunikasi dan Tugas
 
@@ -35,35 +34,34 @@ Staf Pengajar:
     - [Regular (K01 dan K02)](https://chat.whatsapp.com/EDvnWdB9lm34KfH9srYXb1)
     - [IUP (K03)](https://chat.whatsapp.com/I4GxLEzLSrUFRNTdkw0Fpm)
     - [Multikampus (K04 dan K05)](https://chat.whatsapp.com/BDKZHyzSsPEJksdjba7tUP)
-- Edunex Code: _pending_
 
 * * *
 
 ## Aktivitas Kuliah
 
-Kuliah terdiri atas Komponen Kelas (50%) dan Komponen Asisten (50%). Komponen Kelas dilaksanakan terjadwal di SIX, komponen tugas dilaksanakan secara terdistribusi melalui Kelompook Mentoring.
+Kuliah terdiri atas Komponen Kelas (50%) dan Komponen Tugas (50%). Komponen Kelas dilaksanakan terjadwal di SIX, komponen tugas dilaksanakan secara terdistribusi melalui Kelompook Mentoring.
 
-Pembobotan Nilai semester 1 TA. 2023/2024 (D: Dosen, A: Asisten):
+Pembobotan Nilai semester 1 TA. 2023/2024 (K: Kelas, T: Tugas):
 
 | Komponen | Bobot Penilaian Akhir |
 |:---------|:----------------------|
-| UTS (D)| 25% |
-| UAS (D)| 25% |
-| 7MBT (A)| 20% |
-| Mentoring (A)| 15% |
-| Tugas dan Kehadiran (A)| 15% |
+| UTS (K)| 25% |
+| UAS (K)| 25% |
+| 7MBT (T)| 20% |
+| Mentoring (T)| 15% |
+| Assignment dan Kehadiran (T)| 15% |
 
 #### Informasi Kelas
 
 | Kelas | Lokasi | Jadwal | Ketua Kelas |
 |:------|:-------|:-------|:------------|
 | K01 Regular | TVST C - Ganesha | Senin, 13.00 – 15.00 | Johann Christian Kandani |
-| K02 Regular | TVST C – Ganesha | Senin, 15.00 – 17.00 | Christopher Chandra |
-| K03 IUP | R.9024 – Ganesha / R.U.111 - Jatinangor | Rabu, 07.00 – 09.00 | Gloria Galore Puandhika Sinaga |
+| K02 Regular | TVST C – Ganesha | Senin, 15.00 – 17.00 | Abraham Bartholomeus Caleb Putra Pratomo |
+| K03 IUP | R.9024 – Ganesha | Rabu, 07.00 – 09.00 | Gloria Galore Puandhika Sinaga |
 | K04 Cirebon | 9709 | Rabu, 11.00 – 13.00 | Jovi Andreas Bancin |
 | K05 Jatinangor | R.U3.07 | Jumat, 07.00 – 09.00 | Venny Marcelina |
 
-#### Informasi Komponen Asisten
+#### Informasi Komponen Tugas
 
 Komponen Asisten dilaksanakan dengan Kelompok Mentoring. Tiap Kelompok Mentoring diberikan seorang Mentor yang memimpin keberjalanan 7MBT dan Mentoring. **Komponen Aisten dimulai setelah PRS, pada Minggu 5**
 - **Kelompok Mentoring**: _menunggu PRS_
@@ -89,6 +87,8 @@ Mahasiswa yang belum terdaftar di SIX diizinkan sit-in hingga masa PRS berakhir.
 Perpindahan kelas harus difinalisasi di SIX.
 
 #### Kehadiran dan keterlambatan:
+
+Kehadiran Peserta dicatat dengan SIX atau absensi manual di kertas hadir.
 
 Kehadiran minimal peserta adalah 50% untuk mengikuti UTS, dan 80% untuk mengikuti UAS.
 Keterlambatan lebih dari 20 menit dianggap tidak hadir, kecuali dengan alasan yang jelas.
