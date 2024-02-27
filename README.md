@@ -11,19 +11,19 @@
 
 | <h2>Tim Dosen</h2> | &#10240; |
 |:---------|:----------------------|
-| <img src="./assets/img/prof-alamta.jpg" width="80" style="border-radius:50%"> | **Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** <br>Dosen Pengampu |
-| <img src="./assets/img/dr-javen.jpg" width="80" style="border-radius:50%"> | **Dr.-Ing. Javensius Sembiring, S.T., M.T.** <br>Staf Pengajar |
-| <img src="./assets/img/debora.png" width="80" style="border-radius:50%"> | **Debora Situmorang, S.T., S.E.** <br>Staf Pengajar |
-| <img src="./assets/img/kendrik.jpg" width="80" style="border-radius:50%"> | **Kendrik Emkel Ginting, S.T.** <br>Staf Pengajar |
+| <img src="./assets/img/prof-alamta.jpg" width="125" style="border-radius:50%"> | **Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** <br>Dosen Pengampu |
+| <img src="./assets/img/dr-javen.jpg" width="125" style="border-radius:50%"> | **Dr.-Ing. Javensius Sembiring, S.T., M.T.** <br>Staf Pengajar |
+| <img src="./assets/img/debora.png" width="125" style="border-radius:50%"> | **Debora Situmorang, S.T., S.E.** <br>Staf Pengajar |
+| <img src="./assets/img/kendrik.jpg" width="125" style="border-radius:50%"> | **Kendrik Emkel Ginting, S.T.** <br>Staf Pengajar |
 
 | <h2>Tim Asisten</h2> | &#10240; |
 |:---------|:----------------------|
-| <img src="./assets/img/christopher.png" width="75" style="border-radius:50%"> | **Christopher Chandra** <br>Koordinator Asisten |
-| <img src="./assets/img/johann.jpg" width="75" style="border-radius:50%"> | **Johann Christian Kandani** <br>Ketua Kelas K01 |
-| <img src="./assets/img/abraham.png" width="75" style="border-radius:50%"> | **Abraham Bartholomeus Caleb Putra Pratomo** <br>Ketua Kelas K02 |
-| <img src="./assets/img/gloria.png" width="75" style="border-radius:50%"> | **Gloria Galore Puandhika Sinaga** <br>Ketua Kelas K03 |
-| <img src="./assets/img/jovi.jpg" width="75" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
-| <img src="./assets/img/venny.jpg" width="75" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
+| <img src="./assets/img/christopher.png" width="100" style="border-radius:50%"> | **Christopher Chandra** <br>Koordinator Asisten |
+| <img src="./assets/img/johann.jpg" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Ketua Kelas K01 |
+| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Bartholomeus Caleb Putra Pratomo** <br>Ketua Kelas K02 |
+| <img src="./assets/img/gloria.png" width="100" style="border-radius:50%"> | **Gloria Galore Puandhika Sinaga** <br>Ketua Kelas K03 |
+| <img src="./assets/img/jovi.jpg" width="100" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
+| <img src="./assets/img/venny.jpg" width="100" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
 
 **Roster Asisten Kelas dan Mentor**: [Lihat di sini](./pengurus.md)
 
