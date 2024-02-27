@@ -1,11 +1,26 @@
 title: KU2062 Agama dan Etika Protestan
 logo: /assets/img/itb.png
 description: Halaman informasi perkuliahan KU2062 AEP
-# show_downloads: true
-# google_analytics:
 theme: jekyll-theme-minimal
+markdown: GFM
+favicon: true
+
+sidebar:
+  - name: Home
+    icon: 
+    link: ./README.md
+  - name: Informasi 7MBT
+    icon: 
+    link: ./7mbt.md
+  - name: Informasi Mentoring
+    icon: 
+    link: ./mentoring.md
+  - name: Daftar Asisten dan Mentor
+    icon: 
+    link: ./pengurus.md
 
 # remove view github profile/page link
 github:
   is_user_page: false
   is_project_page: false
+
