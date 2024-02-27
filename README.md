@@ -13,7 +13,7 @@
 |:---------|:----------------------|
 | <img src="./assets/img/prof-alamta.jpg" width="125" style="border-radius:50%"> | **Prof. Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** <br>Dosen Pengampu |
 | <img src="./assets/img/dr-javen.jpg" width="125" style="border-radius:50%"> | **Dr.-Ing. Ir. Javensius Sembiring, S.T., M.T.** <br>Staf Pengajar |
-| <img src="./assets/img/out.jpg" width="125" style="border-radius:50%"> | **Debora Situmorang, S.E., S.T.** <br>Staf Pengajar |
+| <img src="./assets/img/debora.jpg" width="125" style="border-radius:50%"> | **Debora Situmorang, S.E., S.T.** <br>Staf Pengajar |
 | <img src="./assets/img/kendrik.jpg" width="125" style="border-radius:50%"> | **Kendrik Emkel Ginting, S.T.** <br>Staf Pengajar |
 
 | <h2>Tim Asisten</h2> | &#10240; |
