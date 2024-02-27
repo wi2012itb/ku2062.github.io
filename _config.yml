@@ -3,9 +3,11 @@ logo: /assets/img/itb.png
 description: Halaman informasi KU2062
 favicon: true
 theme: jekyll-theme-minimal
+favicon: true
 remote_theme: BDHU/minimalist
 markdown: GFM
-favicon: true
+plugins:
+  - jekyll-remote-theme
 
 sidebar:
   - name: Home
