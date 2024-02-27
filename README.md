@@ -11,9 +11,9 @@
 
 | <h2>Tim Dosen</h2> | &#10240; |
 |:---------|:----------------------|
-| <img src="./assets/img/prof-alamta.jpg" width="125" style="border-radius:50%"> | **Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** <br>Dosen Pengampu |
-| <img src="./assets/img/dr-javen.jpg" width="125" style="border-radius:50%"> | **Dr.-Ing. Javensius Sembiring, S.T., M.T.** <br>Staf Pengajar |
-| <img src="./assets/img/debora.png" width="125" style="border-radius:50%"> | **Debora Situmorang, S.T., S.E.** <br>Staf Pengajar |
+| <img src="./assets/img/prof-alamta.jpg" width="125" style="border-radius:50%"> | **Prof. Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** <br>Dosen Pengampu |
+| <img src="./assets/img/dr-javen.jpg" width="125" style="border-radius:50%"> | **Dr.-Ing. Ir. Javensius Sembiring, S.T., M.T.** <br>Staf Pengajar |
+| <img src="./assets/img/out.jpg" width="125" style="border-radius:50%"> | **Debora Situmorang, S.E., S.T.** <br>Staf Pengajar |
 | <img src="./assets/img/kendrik.jpg" width="125" style="border-radius:50%"> | **Kendrik Emkel Ginting, S.T.** <br>Staf Pengajar |
 
 | <h2>Tim Asisten</h2> | &#10240; |
@@ -63,7 +63,7 @@ Pembobotan Nilai semester 1 TA. 2023/2024 (K: Kelas, T: Tugas):
 
 #### Informasi Komponen Tugas
 
-Komponen Asisten dilaksanakan dengan Kelompok Mentoring. Tiap Kelompok Mentoring diberikan seorang Mentor yang memimpin keberjalanan 7MBT dan Mentoring. **Komponen Aisten dimulai setelah PRS, pada Minggu 5**
+Komponen Asisten dilaksanakan dengan Kelompok Mentoring. Tiap Kelompok Mentoring diberikan seorang Mentor yang memimpin keberjalanan 7MBT dan Mentoring. **Komponen Asisten dimulai setelah PRS, pada Minggu 5**
 - **Kelompok Mentoring**: _menunggu PRS_
 - **7MBT**: 7 Menit Bersama Tuhan, saat teduh rutin harian. [Lihat di sini](./7mbt.md)
 - **Mentoring**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](./mentoring.md)

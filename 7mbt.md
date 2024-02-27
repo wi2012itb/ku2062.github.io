@@ -1,10 +1,10 @@
 # 7 Menit Bersama Tuhan (7MBT)
 
 - saat teduh harian 
-- **deadline harian: 23:55 WIB**, maks. terlambat 7 hari
 - penilaian: **Catatan 7MBT** - [Template .docx](./assets/docs/template-7mbt.docx)
 - periode: 3 Maret 2024 - 25 Mei 2024
 - **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
+- **deadline harian: 23:55 WIB**, maks. terlambat 7 hari
 
 * * *
 
@@ -66,7 +66,4 @@ Untuk tiap hari terkumpul, nilai yang dapat diperoleh adalah
 
 ### Perhitungan Akhir
 
-$$N_{7MBT} = \frac {P_{total}} {75} \times 100$$
-
-$N_{7MBT}$ : Nilai 7MBT<br>
-$P_{total}$ : Total akumulasi poin 7MBT per hari
+![Perhitungan Akhir](./assets/img/eq-7mbt.jpg)
