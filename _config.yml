@@ -5,6 +5,10 @@ favicon: true
 theme: jekyll-theme-minimal
 remote_theme: BDHU/minimalist
 color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 markdown: GFM
 
 sidebar:
