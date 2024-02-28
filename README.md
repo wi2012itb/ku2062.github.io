@@ -20,7 +20,7 @@
 |:---------|:----------------------|
 | <img src="./assets/img/christopher.png" width="100" style="border-radius:50%"> | **Christopher Chandra** <br>Koordinator Asisten |
 | <img src="./assets/img/johann.jpg" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Ketua Kelas K01 |
-| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Bartholomeus Caleb Putra Pratomo** <br>Ketua Kelas K02 |
+| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham BCP. Pratomo** <br>Ketua Kelas K02 |
 | <img src="./assets/img/gloria.png" width="100" style="border-radius:50%"> | **Gloria Galore Puandhika Sinaga** <br>Ketua Kelas K03 |
 | <img src="./assets/img/jovi.jpg" width="100" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
 | <img src="./assets/img/venny.jpg" width="100" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
