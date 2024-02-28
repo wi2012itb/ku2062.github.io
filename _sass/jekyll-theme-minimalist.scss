@@ -76,7 +76,7 @@ ul.link:last-child {
 }
 
 .wrapper {
-  width:860px;
+  width:1000px;
   margin: 0 auto;
 }
 
@@ -258,6 +258,10 @@ footer {
   
   .link-wrapper {
     display: none !important;
+  }
+
+  .img-circle {
+    max-width: 75%;
   }
 }
 
