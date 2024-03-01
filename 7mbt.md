@@ -6,7 +6,7 @@
 - **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
 - **deadline harian: 23:55 WIB**, maks. terlambat 7 hari
 
-[**Lihat Kelompok Mentoring Anda di sini - EXCEL**](https://itbdsti.sharepoint.com/:x:/s/KU2062AgamadanEtikaProtestan-220232024/ERpmjYUJDH5HsJO30rCUPVIBKGi9Uu-WAaTJkgLbav8zvw?e=ggSC7L)
+**[Lihat Kelompok Mentoring Anda di sini - EXCEL](https://itbdsti.sharepoint.com/:x:/s/KU2062AgamadanEtikaProtestan-220232024/ERpmjYUJDH5HsJO30rCUPVIBKGi9Uu-WAaTJkgLbav8zvw?e=ggSC7L)**
 
 * * *
 
