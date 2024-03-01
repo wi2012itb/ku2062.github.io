@@ -20,7 +20,7 @@
 |:---------|:----------------------|
 | <img src="./assets/img/christopher.png" width="100" style="border-radius:50%"> | **Christopher Chandra** <br>Koordinator Asisten |
 | <img src="./assets/img/johann.jpg" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Ketua Kelas K01 |
-| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham BCP. Pratomo** <br>Ketua Kelas K02 |
+| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Pratomo** <br>Ketua Kelas K02 |
 | <img src="./assets/img/gloria.png" width="100" style="border-radius:50%"> | **Gloria Galore Puandhia Sinaga** <br>Ketua Kelas K03 |
 | <img src="./assets/img/jovi.jpg" width="100" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
 | <img src="./assets/img/venny.jpg" width="100" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
@@ -56,7 +56,7 @@ Pembobotan Nilai semester 1 TA. 2023/2024 (K: Kelas, T: Tugas):
 | Kelas | Lokasi | Jadwal | Ketua Kelas |
 |:------|:-------|:-------|:------------|
 | K01 Regular | TVST C - Ganesha | Senin, 13.00 – 15.00 | Johann Christian Kandani |
-| K02 Regular | TVST C – Ganesha | Senin, 15.00 – 17.00 | Abraham Bartholomeus Caleb Putra Pratomo |
+| K02 Regular | TVST C – Ganesha | Senin, 15.00 – 17.00 | Abraham Pratomo |
 | K03 IUP | R.9024 – Ganesha | Rabu, 07.00 – 09.00 | Gloria Galore Puandhika Sinaga |
 | K04 Cirebon | 9709 | Rabu, 11.00 – 13.00 | Jovi Andreas Bancin |
 | K05 Jatinangor | R.U3.07 | Jumat, 07.00 – 09.00 | Venny Marcelina |
@@ -64,7 +64,7 @@ Pembobotan Nilai semester 1 TA. 2023/2024 (K: Kelas, T: Tugas):
 #### Informasi Komponen Tugas
 
 Komponen Asisten dilaksanakan dengan Kelompok Mentoring. Tiap Kelompok Mentoring diberikan seorang Mentor yang memimpin keberjalanan 7MBT dan Mentoring.
-- **Kelompok Mentoring**: _menunggu PRS_
+- **Kelompok Mentoring**: [_Klik link ini - Excel_](https://itbdsti.sharepoint.com/:x:/s/KU2062AgamadanEtikaProtestan-220232024/ERpmjYUJDH5HsJO30rCUPVIBKGi9Uu-WAaTJkgLbav8zvw?e=ggSC7L)
 - **7MBT**: 7 Menit Bersama Tuhan, saat teduh rutin harian. [Lihat di sini](./7mbt.md)
 - **Mentoring**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](./mentoring.md)
 

@@ -6,6 +6,8 @@
 - **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
 - **deadline harian: 23:55 WIB**, maks. terlambat 7 hari
 
+[**Lihat Kelompok Mentoring Anda di sini - EXCEL**](https://itbdsti.sharepoint.com/:x:/s/KU2062AgamadanEtikaProtestan-220232024/ERpmjYUJDH5HsJO30rCUPVIBKGi9Uu-WAaTJkgLbav8zvw?e=ggSC7L)
+
 * * *
 
 7 Menit Bersama Tuhan (7MBT) bertujuan agar mahasiswa membangun hubungan dengan Tuhan setiap hari secara disiplin dan konsisten, sehingga membentuk kebiasaan baru yang berlanjut hingga setelah kuliah agama, yakni saat teduh / waktu pribadi dengan Tuhan.

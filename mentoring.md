@@ -7,6 +7,8 @@
 - **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
 - **deadline pengumpulan: H+7 meeting**, maks. terlambat H+14
 
+[**Lihat Kelompok Mentoring Anda di sini - EXCEL**](https://itbdsti.sharepoint.com/:x:/s/KU2062AgamadanEtikaProtestan-220232024/ERpmjYUJDH5HsJO30rCUPVIBKGi9Uu-WAaTJkgLbav8zvw?e=ggSC7L)
+
 * * *
 
 Mentoring pada KU2062 Agama dan Etika Protestan berfungsi untuk memperdalam mahasiswa pada materi-materi terkait kuliah. Mentoring dilaksanakan sebanyak 3 kali dalam satu semester. **Tiap peserta wajib hadir pada tiap pertemuan mentoring**
