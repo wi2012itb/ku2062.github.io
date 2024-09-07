@@ -4,9 +4,9 @@
 
 - 2 SKS / 6 jam per minggu
 - Kelas: Regular (K01 dan K02), IUP (K03), Cirebon (K04), dan Jatinangor (K05)
-- Narahubung Mata Kuliah: **Christopher Chandra**
-    - [18320033+aep@mahasiswa.itb.ac.id](mailto:18320033+aep@mahasiswa.itb.ac.id) 
-    - [Whatsapp](https://wa.me/+6287839954991)
+- Narahubung Mata Kuliah: **Johann Christian Kandani**
+    - [18320033+aep@mahasiswa.itb.ac.id](mailto:13521138+ak@mahasiswa.itb.ac.id) 
+    - [Whatsapp](https://wa.me/+6285158869912)
     - Teams
 
 | <h2>Tim Dosen</h2> | &#10240; |
@@ -18,55 +18,52 @@
 
 | <h2>Tim Asisten</h2> | &#10240; |
 |:---------|:----------------------|
-| <img src="./assets/img/christopher.png" width="100" style="border-radius:50%"> | **Christopher Chandra** <br>Koordinator Asisten |
-| <img src="./assets/img/johann.jpg" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Ketua Kelas K01 |
+| <img src="./assets/img/johann.jpg" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Koordinator Asisten |
+| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Pratomo** <br>Asisten Kelas K01 |
 | <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Pratomo** <br>Ketua Kelas K02 |
 | <img src="./assets/img/gloria.png" width="100" style="border-radius:50%"> | **Gloria Galore Puandhia Sinaga** <br>Ketua Kelas K03 |
 | <img src="./assets/img/jovi.jpg" width="100" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
 | <img src="./assets/img/venny.jpg" width="100" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
-
-**Roster Asisten Kelas dan Mentor**: [Lihat di sini](./pengurus.md)
+| <img src="./assets/img/christopher.png" width="100" style="border-radius:50%"> | **Christopher Chandra** <br>Administrator |
 
 ## Komunikasi dan Tugas
 
-- Teams Code: imsua5p
+- Teams Code: _pending_
 - Whatsapp Group:
-    - [Regular (K01 dan K02)](https://chat.whatsapp.com/EDvnWdB9lm34KfH9srYXb1)
-    - [IUP (K03)](https://chat.whatsapp.com/I4GxLEzLSrUFRNTdkw0Fpm)
-    - [Multikampus (K04 dan K05)](https://chat.whatsapp.com/BDKZHyzSsPEJksdjba7tUP)
+    - [Regular (K01 dan K02)](https://chat.whatsapp.com/FURCESuInwl5LUShr0Pky9)
+    - [IUP (K03)](https://chat.whatsapp.com/I6bd22xIUyR8ZLmZ9QMYb4)
+    - [Multikampus (K04 dan K05)](https://chat.whatsapp.com/DAejz3mw98dH63mynSB4KZ)
 
 * * *
 
 ## Aktivitas Kuliah
 
-Kuliah terdiri atas Komponen Kelas (50%) dan Komponen Tugas (50%). Komponen Kelas dilaksanakan terjadwal di SIX, komponen tugas dilaksanakan secara terdistribusi melalui Kelompook Mentoring.
-
-Pembobotan Nilai semester 1 TA. 2023/2024 (K: Kelas, T: Tugas):
+Kuliah WI2012 terdiri atas:
+- **Kelas (K)**: kuliah terjadwal, tugas, dan ujian
+    - UTS dan UAS
+- **Mentoring (M)**: aktivitas dalam Kelompok Mentoring
+    - 75days dan Journeys
 
 | Komponen | Bobot Penilaian Akhir |
 |:---------|:----------------------|
-| UTS (K)| 25% |
-| UAS (K)| 25% |
-| 7MBT (T)| 20% |
-| Mentoring (T)| 15% |
-| Assignment dan Kehadiran (T)| 15% |
+| UTS + UAS (K)| 50% |
+| 75days + Journeys (M)| 50% |
 
-#### Informasi Kelas
+#### Jadwal Kelas
 
 | Kelas | Lokasi | Jadwal | Ketua Kelas |
 |:------|:-------|:-------|:------------|
 | K01 Regular | TVST C - Ganesha | Senin, 13.00 – 15.00 | Johann Christian Kandani |
 | K02 Regular | TVST C – Ganesha | Senin, 15.00 – 17.00 | Abraham Pratomo |
-| K03 IUP | R.9024 – Ganesha | Rabu, 07.00 – 09.00 | Gloria Galore Puandhika Sinaga |
-| K04 Cirebon | 9709 | Rabu, 11.00 – 13.00 | Jovi Andreas Bancin |
-| K05 Jatinangor | R.U3.07 | Jumat, 07.00 – 09.00 | Venny Marcelina |
+| K03 IUP | R.9133 – Ganesha | Kamis, 13.00 – 15.00 | Gloria Galore Puandhika Sinaga |
+| K04 Cirebon | - | Rabu, 13.00 – 15.00 | Jovi Andreas Bancin |
+| K05 Jatinangor | R.U3.01 | Jumat, 07.00 – 09.00 | Venny Marcelina |
 
-#### Informasi Komponen Tugas
+#### Tentang Mentoring
 
-Komponen Asisten dilaksanakan dengan Kelompok Mentoring. Tiap Kelompok Mentoring diberikan seorang Mentor yang memimpin keberjalanan 7MBT dan Mentoring.
-- **Kelompok Mentoring**: [_Klik link ini - Excel_](https://itbdsti.sharepoint.com/:x:/s/KU2062AgamadanEtikaProtestan-220232024/ERpmjYUJDH5HsJO30rCUPVIBKGi9Uu-WAaTJkgLbav8zvw?e=ggSC7L)
-- **7MBT**: 7 Menit Bersama Tuhan, saat teduh rutin harian. [Lihat di sini](./7mbt.md)
-- **Mentoring**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](./mentoring.md)
+Tiap mahasiswa dikelompokkan dalam Kelompok Mentoring. Seorang Mentor dan Co-mentor akan memandu 75days dan Journeys.
+- **75days**: saat teduh rutin harian. [Lihat di sini](./75days.md)
+- **Journeys**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](./journeys.md)
 
 * * *
 
@@ -95,9 +92,9 @@ Keterlambatan lebih dari 20 menit dianggap tidak hadir, kecuali dengan alasan ya
 
 #### Izin dan sakit:
 Hal terkait perizinan diatur sebagai berikut:
-- Izin diberikan dengan tanda tangan pihak berkaitan, atau orang tua/wali
-- Izin diberikan perihal akademik dan pertugasan
-- Izin kolektif diwakilkan satu peserta kuliah saja
+- Pengajuan diperbolehkan dengan tanda tangan pihak berkaitan, atau orang tua/wali
+- Pengajuan diperbolehkan perihal akademik dan pertugasan
+- Pengajuan kolektif diwakilkan satu peserta kuliah saja
 
 Silakan klik link Forms ini untuk mengajukan izin:
 
