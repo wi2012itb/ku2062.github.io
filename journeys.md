@@ -4,7 +4,7 @@
 - 3 topik Journey, @ 2 jam per **Journey**
 - masa Journey: Oktober - Desember (1x Journey/bulan)
 - penilaian: **Worksheet dan Keaktifan**
-- **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
+- **kumpul .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
 - **kumpul maks. H+7 setelah Journey**, maks. terlambat H+14
 
 * * *
@@ -27,7 +27,7 @@ Terdapat 3 topik mentoring, yaitu:
 - waktu untuk Journey bebas, diskusikan dengan Mentor masing-masing
 - pengumpulan Journey dalam bentuk worksheet yang dikerjakan setelah tiap Journey berakhir
 
-**Kumpul .docx Worksheet di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
+**Kumpul .docx Worksheet di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
 
 ### Penilaian Journey
 

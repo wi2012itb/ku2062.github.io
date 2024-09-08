@@ -3,7 +3,7 @@
 - jurnal saat teduh harian
 - perhitungan poin: **Jurnal Days** - [Template .docx](./assets/docs/template-7mbt.docx)
 - masa **days**: 7 Oktober 2024 - 29 Desember 2024
-- **kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
+- **kumpul .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
 - **kumpul setiap hari sebelum 23:55 WIB**, maks. terlambat 7 hari
 
 * * *
@@ -15,7 +15,7 @@ Dalam 75days, mahasiswa diajak untuk menulis jurnal harian berupa **days**, yang
 Tiap **days** dapat dilakukan dalam 7 menit!
 - ½ menit:	siapkan hati untuk menjurnal, minta pimpinan Roh Kudus dalam doa
 - 4 menit: 	dengarlah suara Tuhan melalui Alkitab
-- 2 ½ menit: 	berbicaralah kepada Tuhan, berdoa (contohnya ACTS)
+- 2 ½ menit: 	berbicaralah kepada Tuhan, berdoa (contohnya **ACTS**)
     - **A**doration/Penyembahan: lihatlah dan pujilah kasih, kuasa, keagungan, serta anugerah-Nya yang terindah, yaitu Kristus.
     - **C**onfession/Pengakuan: datanglah kepada Tuhan dengan jujur dan rendah hati, mengakui setiap dosa kita kepada-Nya.
     - **T**hanksgiving/Pengucapan syukur: ingatlah dan bersyukur, ucapkan terima kasih untuk segala yang sudah Tuhan berikan, bahkan hal-hal yang tidak menyenangkan sekalipun.
@@ -24,7 +24,7 @@ Tiap **days** dapat dilakukan dalam 7 menit!
 Panduan ini dapat disesuaikan Mentor masing-masing.
 
 Contoh template 7MBT disediakan pada Microsoft Teams dan link berikut:
-[Template Catatan 7MBT dalam .docx](./assets/docs/template-7mbt.docx)
+[Template Catatan 7MBT dalam .docx](./404.md)
 
 <img src="./assets/img/7mbt.jpg" width="200" height="300">
 <img src="./assets/img/7mwg.jpg" width="200" height="300">
@@ -37,7 +37,7 @@ Masa jurnal: 7 Oktober 2024 - 29 Desember 2024 (**3 bulan**)
 
 Tiap **days** ditulis dan dikumpulkan pada hari yang sama, pengumpulan menggunakan Microsoft Forms.
 
-**Kumpul .docx di [Microsoft Forms (klik di sini)](https://forms.office.com/r/gMtpCDpvbj)**
+**Kumpul days dalam bentuk .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
 
 Untuk tiap hari terkumpul, poin yang dapat diperoleh adalah
 

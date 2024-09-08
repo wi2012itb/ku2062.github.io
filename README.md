@@ -5,22 +5,25 @@
 - 2 SKS / 6 jam per minggu
 - Kelas: Regular (K01 dan K02), IUP (K03), Cirebon (K04), dan Jatinangor (K05)
 - Narahubung Mata Kuliah: **Johann Christian Kandani**
-    - [18320033+aep@mahasiswa.itb.ac.id](mailto:13521138+ak@mahasiswa.itb.ac.id) 
+    - [13521138+ak@mahasiswa.itb.ac.id](mailto:13521138+ak@mahasiswa.itb.ac.id) 
     - [Whatsapp](https://wa.me/+6285158869912)
     - Teams
 
-| <h2 markdown="1"> Tim Dosen </h2> | &#10240; |
+## Tim Dosen
+
+| &#10240; | &#10240; |
 |:---------|:----------------------|
 | <img src="./assets/img/prof-alamta.jpg" width="125" style="border-radius:50%"> | **Prof. Dr. Eng. Alamta Singarimbun, D.Min., Ph.D.** <br>Dosen Pengampu |
 | <img src="./assets/img/dr-javen.jpg" width="125" style="border-radius:50%"> | **Dr.-Ing. Ir. Javensius Sembiring, S.T., M.T.** <br>Staf Pengajar |
 | <img src="./assets/img/debora.jpg" width="125" style="border-radius:50%"> | **Debora Situmorang, S.E., S.T.** <br>Staf Pengajar |
 | <img src="./assets/img/kendrik.jpg" width="125" style="border-radius:50%"> | **Kendrik Emkel Ginting, S.T.** <br>Staf Pengajar |
 
-| <h2> Tim Asisten </h2> | &#10240; |
+## Tim Asisten
+
+| &#10240; | &#10240; |
 |:---------|:----------------------|
-| <img src="./assets/img/johann.jpg" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Koordinator Asisten |
-| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Pratomo** <br>Asisten Kelas K01 |
-| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Pratomo** <br>Ketua Kelas K02 |
+| <img src="./assets/img/johann.png" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Koordinator Asisten |
+| <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Pratomo** <br>Ketua Kelas K01 dan K02 |
 | <img src="./assets/img/gloria.png" width="100" style="border-radius:50%"> | **Gloria Galore Puandhia Sinaga** <br>Ketua Kelas K03 |
 | <img src="./assets/img/jovi.jpg" width="100" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
 | <img src="./assets/img/venny.jpg" width="100" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
@@ -53,7 +56,7 @@ Kuliah WI2012 terdiri atas:
 
 | Kelas | Lokasi | Jadwal | Ketua Kelas |
 |:------|:-------|:-------|:------------|
-| K01 Regular | TVST C - Ganesha | Senin, 13.00 – 15.00 | Johann Christian Kandani |
+| K01 Regular | TVST C - Ganesha | Senin, 13.00 – 15.00 | Abraham Pratomo |
 | K02 Regular | TVST C – Ganesha | Senin, 15.00 – 17.00 | Abraham Pratomo |
 | K03 IUP | R.9133 – Ganesha | Kamis, 13.00 – 15.00 | Gloria Galore Puandhika Sinaga |
 | K04 Cirebon | - | Rabu, 13.00 – 15.00 | Jovi Andreas Bancin |
@@ -96,8 +99,4 @@ Hal terkait perizinan diatur sebagai berikut:
 - Pengajuan diperbolehkan perihal akademik dan pertugasan
 - Pengajuan kolektif diwakilkan satu peserta kuliah saja
 
-Silakan klik link Forms ini untuk mengajukan izin:
-
-[Forms Pengajuan Izin](https://forms.office.com/r/DBD2ENaDMP)
-
-![QR Code Forms](./assets/img/qr-izin.png)
+Ajukan izin di link berikut: [https://wi2012.com/izin](./izin.md)
