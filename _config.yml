@@ -9,7 +9,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-markdown: gfm
+markdown: kramdown
 
 sidebar:
   - name: Home
