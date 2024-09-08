@@ -14,11 +14,12 @@ Terdapat tiga Journey yang membawa mahasiswa untuk memperdalam pemahaman tentang
 ### Topik Journey
 
 Terdapat 3 topik mentoring, yaitu:
+
 | Journey | Topik |
 |:----------------|:----------------------|
-| 1 - Oktober | Perjalanan Menuju Kehidupan Baru |
-| 2 - November | Dipanggil untuk Menjadi Serupa |
-| 3 - Desember | Pilihan Hidup dan Visi Allah Bagi Dunia |
+| 1 (Oktober) | Perjalanan Menuju Kehidupan Baru (Dosa, Keselamatan, dan Pertobatan) |
+| 2 (November) | Dipanggil untuk Menjadi Serupa |
+| 3 (Desember) | Pilihan Hidup dan Visi Allah Bagi Dunia |
 
 ### Masa dan Pengumpulan Journey
 
