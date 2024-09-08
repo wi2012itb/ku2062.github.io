@@ -3,7 +3,7 @@
 - jurnal saat teduh harian
 - perhitungan poin: **Jurnal Days** - [Template .docx](./assets/docs/template-7mbt.docx)
 - masa **days**: 7 Oktober 2024 - 29 Desember 2024
-- **kumpul .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
+- **kumpul days dalam .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
 - **kumpul setiap hari sebelum 23:55 WIB**, maks. terlambat 7 hari
 
 * * *
@@ -23,9 +23,6 @@ Tiap **days** dapat dilakukan dalam 7 menit!
 
 Panduan ini dapat disesuaikan Mentor masing-masing.
 
-Contoh template 7MBT disediakan pada Microsoft Teams dan link berikut:
-[Template Catatan 7MBT dalam .docx](./404.md)
-
 <img src="./assets/img/7mbt.jpg" width="200" height="300">
 <img src="./assets/img/7mwg.jpg" width="200" height="300">
 
@@ -33,15 +30,15 @@ Contoh template 7MBT disediakan pada Microsoft Teams dan link berikut:
 
 ## Masa, Pengumpulan, dan Penilaian 7MBT
 
-Masa jurnal: 7 Oktober 2024 - 29 Desember 2024 (**3 bulan**)
+Masa **days**: 7 Oktober 2024 - 29 Desember 2024 (**3 bulan**)
 
 Tiap **days** ditulis dan dikumpulkan pada hari yang sama, pengumpulan menggunakan Microsoft Forms.
 
-**Kumpul days dalam bentuk .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
+**Kumpul _days_ dalam bentuk .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
 
-Untuk tiap hari terkumpul, poin yang dapat diperoleh adalah
+Untuk tiap **days** terkumpul, poin yang dapat diperoleh adalah
 
-| Ketepatan waktu \ Kesesuaian | Baik | Tidak Sesuai |
+| Ketepatan waktu / Kesesuaian | Baik | Tidak Sesuai |
 |:-----------------------------|:----:|:-----------:|
 | **Tepat Waktu** | 1 | 0 |
 | **Terlambat (<= 7 hari)** | 0,5 | 0 |
@@ -61,6 +58,7 @@ Untuk tiap hari terkumpul, poin yang dapat diperoleh adalah
 | Oktober | 25 | 0 | 25 |
 | November | 25 | 5 | 30 |
 | Desember | 25 | 4 | 29 |
+|==========+==========+==========+======|
 | **Total** | 75 | 9 | 84 |
 
 Perhitungan nilai untuk 75days
