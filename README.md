@@ -5,9 +5,9 @@
 - 2 SKS / 6 jam per minggu
 - Kelas: Regular (K01 dan K02), IUP (K03), Cirebon (K04), dan Jatinangor (K05)
 - Narahubung Mata Kuliah: **Johann Christian Kandani**
-    - [13521138+ak@mahasiswa.itb.ac.id](mailto:13521138+ak@mahasiswa.itb.ac.id) 
+    - [13521138+ak@mahasiswa.itb.ac.id](mailto:13521138+ak@mahasiswa.itb.ac.id)
     - [Whatsapp](https://wa.me/+6285158869912)
-    - Teams
+    - [Teams](https://teams.microsoft.com/l/chat/0/0?users=13521138@mahasiswa.itb.ac.id)
 
 ## Tim Dosen
 
@@ -31,7 +31,7 @@
 
 ## Komunikasi dan Tugas
 
-- Teams Code: _pending_
+- Teams Code: [lbogpg1](https://teams.microsoft.com/l/team/19%3AU6UFm2FGTUDVg8VHsy4pReGVPZmnj8y2_Eq8BXj2SIg1%40thread.tacv2/conversations?groupId=05a1e470-9802-4319-807e-895111af8751&tenantId=db6e1183-4c65-405c-82ce-7cd53fa6e9dc)
 - Whatsapp Group:
     - [Regular (K01 dan K02)](https://chat.whatsapp.com/FURCESuInwl5LUShr0Pky9)
     - [IUP (K03)](https://chat.whatsapp.com/I6bd22xIUyR8ZLmZ9QMYb4)
