@@ -9,6 +9,8 @@
     - [Whatsapp](https://wa.me/+6285158869912)
     - Teams
 
+##
+
 ## Tim Dosen
 
 | &#10240; | &#10240; |
@@ -18,20 +20,22 @@
 | <img src="./assets/img/debora.jpg" width="125" style="border-radius:50%"> | **Debora Situmorang, S.E., S.T.** <br>Staf Pengajar |
 | <img src="./assets/img/kendrik.jpg" width="125" style="border-radius:50%"> | **Kendrik Emkel Ginting, S.T.** <br>Staf Pengajar |
 
+##
+
 ## Tim Asisten
 
 | &#10240; | &#10240; |
 |:---------|:----------------------|
 | <img src="./assets/img/johann.png" width="100" style="border-radius:50%"> | **Johann Christian Kandani** <br>Koordinator Asisten |
 | <img src="./assets/img/abraham.png" width="100" style="border-radius:50%"> | **Abraham Pratomo** <br>Ketua Kelas K01 dan K02 |
-| <img src="./assets/img/gloria.png" width="100" style="border-radius:50%"> | **Gloria Galore Puandhia Sinaga** <br>Ketua Kelas K03 |
+| <img src="./assets/img/billy.png" width="100" style="border-radius:50%"> | **Billy Setiawan** <br>Ketua Kelas K03 |
 | <img src="./assets/img/jovi.jpg" width="100" style="border-radius:50%"> | **Jovi Andreas Bancin** <br>Ketua Kelas K04 |
-| <img src="./assets/img/venny.jpg" width="100" style="border-radius:50%"> | **Venny Marcelina** <br>Ketua Kelas K05 |
+| <img src="./assets/img/neni.jpg" width="100" style="border-radius:50%"> | **Neni Sembiring** <br>Ketua Kelas K05 |
 | <img src="./assets/img/christopher.png" width="100" style="border-radius:50%"> | **Christopher Chandra** <br>Administrator |
 
 ## Komunikasi dan Tugas
 
-- Teams Code: _pending_
+- Teams Code: **lbogpg1**
 - Whatsapp Group:
     - [Regular (K01 dan K02)](https://chat.whatsapp.com/FURCESuInwl5LUShr0Pky9)
     - [IUP (K03)](https://chat.whatsapp.com/I6bd22xIUyR8ZLmZ9QMYb4)
@@ -58,15 +62,16 @@ Kuliah WI2012 terdiri atas:
 |:------|:-------|:-------|:------------|
 | K01 Regular | TVST C - Ganesha | Senin, 13.00 – 15.00 | Abraham Pratomo |
 | K02 Regular | TVST C – Ganesha | Senin, 15.00 – 17.00 | Abraham Pratomo |
-| K03 IUP | R.9133 – Ganesha | Kamis, 13.00 – 15.00 | Gloria Galore Puandhika Sinaga |
+| K03 IUP | R.9133 – Ganesha | Kamis, 13.00 – 15.00 | Billy Setiawan |
 | K04 Cirebon | - | Rabu, 13.00 – 15.00 | Jovi Andreas Bancin |
-| K05 Jatinangor | R.U3.01 | Jumat, 07.00 – 09.00 | Venny Marcelina |
+| K05 Jatinangor | R.U3.01 | Jumat, 07.00 – 09.00 | Neni Sembiring |
 
 #### Tentang Mentoring
 
 Tiap mahasiswa dikelompokkan dalam Kelompok Mentoring. Seorang Mentor dan Co-mentor akan memandu 75days dan Journeys.
-- **75days**: saat teduh rutin harian. [Lihat di sini](./75days.md)
-- **Journeys**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](./journeys.md)
+- **75days**: saat teduh rutin harian. [Lihat di sini](https://wi2012.com/75days)
+- **Journeys**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](https://wi2012.com/journeys)
+- untuk pengumpulan **days** dan **Journeys**, [Lihat di sini](https://wi2012.com/kumpul)
 
 * * *
 
@@ -99,4 +104,4 @@ Hal terkait perizinan diatur sebagai berikut:
 - Pengajuan diperbolehkan perihal akademik dan pertugasan
 - Pengajuan kolektif diwakilkan satu peserta kuliah saja
 
-Ajukan izin di link berikut: [https://wi2012.com/izin](./izin.md)
+Ajukan izin di link berikut: [https://wi2012.com/izin](https://wi2012.com/izin)

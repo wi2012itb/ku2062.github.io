@@ -1,7 +1,7 @@
 # 75days
 
 - jurnal saat teduh harian
-- perhitungan poin: **Jurnal Days** - [Template .docx](./assets/docs/template-7mbt.docx)
+- perhitungan poin: **Jurnal Days** - [Template .docx](./assets/docs/template-days.docx)
 - masa **days**: 7 Oktober 2024 - 29 Desember 2024
 - **kumpul days dalam .docx di [https://wi2012.com/kumpul](https://wi2012.com/kumpul)**
 - **kumpul setiap hari sebelum 23:55 WIB**, maks. terlambat 7 hari
@@ -23,8 +23,8 @@ Tiap **days** dapat dilakukan dalam 7 menit!
 
 Panduan ini dapat disesuaikan Mentor masing-masing.
 
-<img src="./assets/img/7mbt.jpg" width="200" height="300">
-<img src="./assets/img/7mwg.jpg" width="200" height="300">
+<img src="./assets/img/days-id.jpg" width="200" height="300">
+<img src="./assets/img/days-en.jpg" width="200" height="300">
 
 * * *
 
