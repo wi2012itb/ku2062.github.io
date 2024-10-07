@@ -1,8 +1,8 @@
 #### Tentang Mentoring
 
 Tiap mahasiswa dikelompokkan dalam Kelompok Mentoring. Seorang Mentor dan Co-mentor akan memandu 75days dan Journeys.
-- **75days**: saat teduh rutin harian. [Lihat di sini](./75days.md)
-- **Journeys**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](./journeys.md)
+- **75days**: saat teduh rutin harian. [Lihat di sini](https://wi2012.com/75days)
+- **Journeys**: diskusi topik terpilih sebanyak 3 kali. [Lihat di sini](https://wi2012.com/journeys)
 
 Jika belum masuk: 
 1. Periksa sudah terdaftar di SIX dan **kelas yang sesuai**
